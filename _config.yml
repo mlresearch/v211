@@ -1,0 +1,83 @@
+---
+booktitle: Proceedings of The 5th Annual Learning for Dynamics and Control Conference
+title: Proceedings of Machine Learning Research
+shortname: L4DC
+volume: '211'
+start: 2023-06-15
+end: 2023-06-16
+published: 2023-06-06
+year: '2023'
+publisher: PMLR
+series: Proceedings of Machine Learning Research
+conference_number: '5'
+layout: proceedings
+issn: 2640-3498
+id: L4DC2023
+month: 0
+tex_title: Proceedings of The 5th Annual Learning for Dynamics and Control Conference
+cycles: false
+bibtex_editor: Matni, Nikolai and Morari, Manfred and Pappas, George J.
+editor:
+- given: Nikolai
+  family: Matni
+- given: Manfred
+  family: Morari
+- given: George J.
+  family: Pappas
+description: |
+  Proceedings of The 5th Annual Learning for Dynamics and Control Conference
+    Held in Philadelphia, PA on 15-16 June 2023
+
+  Published as Volume 211 by the Proceedings of Machine Learning Research on 06 June 2023.
+
+  Volume Edited by:
+    Nikolai Matni
+    Manfred Morari
+    George J. Pappas
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 15--16 Jun
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v211"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v211
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v211
+email: ''
+conference:
+  name: Learning for Dynamics and Control Conference
+  url: l4dc.org
+  location: Philadelphia, PA
+  dates:
+  - 2023-06-15
+  - 2023-06-16
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v211/l4dc23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v211/l4dc23.bib
